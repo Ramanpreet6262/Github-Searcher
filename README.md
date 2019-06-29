@@ -1,3 +1,4 @@
 # Github-Finder
 
-It will search github.com for specific users and display them.
+It will search github.com for specific users and display them on website.
+
