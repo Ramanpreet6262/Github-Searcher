@@ -32,7 +32,7 @@ $(document).ready(function () {
                                     <h5 class="badges"><span class="badge badge-dark">${repo.language}</span></h5>
                                 </div>
                                 <div class="col-md-2">
-                                    <a href="${repo.html_url}" target="_blank" class="btn btn-primary">Open Repo</a>
+                                    <a href="${repo.html_url}" target="_blank" class="btn btn-warning">Open Repo</a>
                                 </div>
                             </div>
                         </div>
