@@ -1,0 +1,27 @@
+.navbar-brand {
+    margin-left: 10%;
+    font-size: 185%;
+}
+
+.container {
+    margin-top: 2%;
+}
+
+#getbtn {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.avatar {
+    width: 100%;
+}
+
+.viewbtn {
+    margin-top: 10px;
+    font-size: 150%;
+}
+
+.badges {
+    display: inline;
+    padding: 5px;
+}
