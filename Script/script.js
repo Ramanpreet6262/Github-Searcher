@@ -4,7 +4,7 @@ $(document).ready(function () {
 
         // Make request to Github
         $.ajax({
-            url: 'https://api.github.com/users/' + username,
+            url: 'https://api.github.com/users/' + username,//api for the required result
             data: {
                 client_id: 'a9f91e0232f2da786334',
                 client_secret: 'cde522888b07055b93c15a635df297d5fcddc84b'
